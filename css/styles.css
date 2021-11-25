@@ -1,9 +1,3 @@
-/* Template: Tivo - SaaS App HTML Landing Page Template
-   Author: Inovatik
-   Created: Sep 2019
-   Description: Master CSS file
-*/
-
 /*****************************************
 Table Of Contents:
 
@@ -784,6 +778,9 @@ input[type='checkbox'] {
 /*********************/
 .header {
 	background-color: #34b992;
+	background-image: url(/images/muj.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
 }
 
 .header .header-content {
